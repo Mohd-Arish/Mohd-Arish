@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Arish Siddiqui</h1>
-<p align="left">I am a passionate B.Tech CS student at Amity University, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.</p>
+<h3 align="left">I am a passionate B.Tech CS student at Amity University, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.</h3>
 
 <h3 align="left">Connect with me on:- </h3>
 <p align="left">
